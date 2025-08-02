@@ -371,7 +371,7 @@ const Komentar = () => {
         if (diffDays < 7) return `${diffDays}d ago`;
 
         return new Intl.DateTimeFormat('en-US', {
-            year: 'numeric',
+            year: '2-digit',
             month: 'short',
             day: 'numeric'
         }).format(date);
