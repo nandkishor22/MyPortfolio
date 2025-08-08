@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              A Computer Engineering diploma with a keen interest in front-end development. I focus on creating engaging digital experiences and always strive to deliver the best solutions in every project I work on.
+              A Computer Engineer with a strong passion for front-end development, dedicated to crafting visually appealing, user-friendly, and high-performing digital experiences. I am committed to continuous learning, attention to detail, and delivering innovative solutions that not only meet but exceed project goals.
             </p>
     
                {/* Quote Section */}
